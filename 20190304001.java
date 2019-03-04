@@ -1,3 +1,4 @@
+//java第一个例子
 import java.util.*;
 public class App3_7
 {
