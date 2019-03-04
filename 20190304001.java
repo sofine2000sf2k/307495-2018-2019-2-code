@@ -4,7 +4,7 @@ public class App3_7
   public static void main(String[] args)
   {   
     Scanner reader=new Scanner(System.in);
-    int a=reader.nextint();
+    int a=reader.nextInt();
     
     a=a+1;
     
